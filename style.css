@@ -1,0 +1,170 @@
+body{
+    margin: 0;
+    margin-top: 0%;
+}
+#menu a{
+   color: rgb(229, 226, 226);
+}
+#meta-h1{
+    font-size: 60px;
+    padding-left: 29px;
+    margin-top: 30px;
+    
+    
+}
+#meta{
+    padding-left: 29px;
+}
+
+.home{
+   
+    color: black;
+    text-decoration: none;
+}
+.home:hover{
+    font-weight: 700;
+}
+.home a{
+    display: flex; 
+}
+#prep{
+    font-size: 50px;
+}
+#Surgeons{
+    font-size: 20px;
+}
+#develop{
+    font-size: 50px;
+}
+#leverage{
+    font-size:25px;
+}
+#light{
+    font-size: 50px;
+}
+#enable{
+    font-size: 25px;
+}
+#legal{
+    margin-left: 120px;
+}
+#legl{
+    padding-top: 30px;
+    padding-bottom: 10px;
+}
+#copy{
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+#made{
+    text-align: center;
+}
+#us{
+    text-align: end;
+}
+@media screen and (max-width:320px){
+    body{
+        overflow-x: hidden;
+    }
+      #meta{
+          padding-left: 5px;
+
+      }
+      #meta-h1{
+          padding-left: 2px;
+          font-size: 33px;
+      }
+      #img-magic{
+          width: 200px;
+          height: 60px;
+      }
+      .home{
+        font-size: 12px;
+    }
+    #Surgeons{
+        font-size: 14px;
+    }
+    #leverage{
+        font-size: 20px;
+    }
+    #develop{
+        font-size: 35px;
+
+    }
+    
+    #light{
+        font-size: 25px;
+    }
+    #enable{
+        font-size: 25px;
+    }
+    #prep{
+        font-size: 35px;
+    }
+
+
+  .copy{
+      margin-left: 50px;
+  }  
+     #made{
+         margin-left: -40px;
+     }
+     .us{
+         margin-left: -160px;
+     }
+     #legal{
+         position: absolute;
+        margin-left: -230px;
+        margin-bottom: 14px;
+        padding-bottom: 7px;
+     }
+     #privacy{
+         position:absolute;
+         margin-left: -230px;
+         margin-top: 30px;
+       
+     }
+     #email{
+         position: absolute;
+         margin-left: 172px;
+     }
+     #cookie{
+         position: absolute;
+         margin-top: 30px;
+         margin-left: 172px;
+     }
+      #copy{
+          text-align: center;
+          margin-top: 30px;
+      }
+      #cont{
+          margin-top: 10px;
+      }
+      #legl{
+          padding-top: 10px;
+      }
+      #us{
+          text-align: center;
+
+      }
+      hr{
+          margin-top: -30px;
+          display: none;
+      }
+      #made{
+        
+          margin-left: 10px;
+      }
+      #get{
+          text-align: center;
+      }
+
+     }
+
+
+         
+        
+  
+
+  
+ 
